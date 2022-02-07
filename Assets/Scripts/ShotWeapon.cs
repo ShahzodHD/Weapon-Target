@@ -6,6 +6,8 @@ public class ShotWeapon : MonoBehaviour
     [SerializeField] private Transform positionShot;
     [SerializeField] private Joystick joystick;
 
+    [SerializeField] private SoudShot soudShot;
+
 
     [SerializeField] private float coolDown;
 
@@ -24,6 +26,8 @@ public class ShotWeapon : MonoBehaviour
         {
             Instantiate(bullet, positionShot.position, transform.rotation);
             delay = coolDown;
+
+            soudShot.PlaySoundShot();
         }
     }
 
