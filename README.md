@@ -8,6 +8,4 @@ Main Scene: Jeremy Soule - Dragonborn
 To play the game, install the apk file in Android 4.1+
 
 ## Gameplay
-https://youtu.be/bHL-Of8_cV4
-![gameplay][image]
-[image]: /full/path/to/image/file.jpg "alt_txt"
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/bHL-Of8_cV4)
