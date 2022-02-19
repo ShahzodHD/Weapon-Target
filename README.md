@@ -9,3 +9,5 @@ To play the game, install the apk file in Android 4.1+
 
 ## Gameplay
 https://youtu.be/bHL-Of8_cV4
+![gameplay][image]
+[image]: /full/path/to/image/file.jpg "alt_txt"
